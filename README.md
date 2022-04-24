@@ -1,4 +1,4 @@
-## Olá, me chamo Julio Ferreira, sou desenvolvedor mobile e criador de conteúdo de programação e tecnologia!
+## Olá, me chamo Julio Ferreira, sou Técnico em Automação industrial e também desenvolvedor mobile (freelancer)!
 <div align="center">
   <a href="https://github.com/JulioFerreiraDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioFerreiraDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
