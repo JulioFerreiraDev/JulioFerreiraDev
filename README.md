@@ -1,4 +1,4 @@
-## Olá, me chamo Julio Ferreira, sou Técnico em Automação Industrial Sênior e desenvolvedor mobile (freelancer)!
+## Olá, me chamo Julio Ferreira, sou Técnico em Automação Industrial Sênior e desenvolvedor full stack (freelancer)!
 
 <div align="center">
   <a href="https://github.com/JulioFerreiraDev">
