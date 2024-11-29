@@ -1,4 +1,4 @@
-## Olá, me chamo Julio Ferreira, sou Professor Universitário | Mestrando de Ciência em Computação | Desenvolvedor de Software, Firmware e Hardware | Pesquisador Acadêmico!
+## Olá, me chamo Julio Ferreira, sou Professor | Mestrando de Ciência em Computação | Desenvolvedor de Software, Firmware e Hardware | Pesquisador Acadêmico!
 
 <div align="center">
   <a href="https://github.com/JulioFerreiraDev">
