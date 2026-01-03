@@ -19,7 +19,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/julio-cezar-da-silva-ferreira-a654b2127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ferreirajuliocs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:julio.thy22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail"></a>
  
   ![Snake animation](https://github.com/JulioFerreiraDev/JulioFerreiraDev/blob/output/github-contribution-grid-snake.svg)
